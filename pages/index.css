@@ -1,0 +1,63 @@
+/* general */
+@import url(../vendor/normalize.css);
+@import url(../vendor/fonts/fonts.css);
+@import url(../blocks/main/main.css);
+
+/* header */
+@import url(../blocks/header/header.css);
+
+/* banner */
+@import url(../blocks/banner/banner.css);
+@import url(../blocks/banner/__image/banner__image.css);
+@import url(../blocks/banner/__content/banner__content.css);
+@import url(../blocks/banner/__h1/banner__h1.css);
+
+/* actions */
+@import url(../blocks/actions/actions.css);
+
+/* major */
+@import url(../blocks/major/major.css);
+
+/* box */
+@import url(../blocks/box/box.css);
+
+/* button */
+@import url(../blocks/button/button.css);
+
+/* contact */
+@import url(../blocks/contact/contact.css);
+
+/* features */
+@import url(../blocks/features/features.css);
+
+/* icon */
+@import url(../blocks/icon/icon.css);
+
+/* image */
+@import url(../blocks/image/image.css);
+
+/* main */
+@import url(../blocks/main/main.css);
+
+/* menu */
+@import url(../blocks/menu/menu.css);
+@import url(../blocks/menu/__ul/menu__ul.css);
+@import url(../blocks/menu/__ul-li/menu__ul-li.css);
+
+/* mini posts */
+@import url(../blocks/mini-posts/mini-posts.css);
+
+/* pagination */
+@import url(../blocks/pagination/pagination.css);
+
+/* posts */
+@import url(../blocks/posts/posts.css);
+
+/* sidebar */
+@import url(../blocks/sidebar/sidebar);
+
+/* table */
+@import url(../blocks/table/table.css);
+
+/* wrapper */
+@import url(../blocks/wrapper/wrapper.css);

@@ -1,0 +1,14 @@
+/* Banner content */
+.banner__content {
+    flex-grow: 1;
+    flex-shrink: 1;
+    width: 50%;
+}
+
+@media screen and (orientation: portrait) {
+    .banner__content {
+        flex-grow: 0;
+        flex-shrink: 0;
+        width: 100%;
+    }
+}
